@@ -2,7 +2,7 @@ const quizForm=document.querySelector(".quiz-form");
 const submitButton=document.querySelector("#btn");
 const outputBox=document.querySelector("#output");
 
-const correctAnwser=["90°","right trinagle"];
+const correctAnwser=["90°","right trinagle","equilateral triangle","true","√3/4 a2"];
 
 
 function calculatescore(){
